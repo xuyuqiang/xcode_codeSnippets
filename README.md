@@ -11,7 +11,7 @@ Xcode自定义代码块，方便编写代码
 
 1. 通过xcode编辑代码块
 2. cd xcode_codeSnippets
-3. sh setup.sh
+3. sh update.sh
 
 
 ## 目前支持的代码块
