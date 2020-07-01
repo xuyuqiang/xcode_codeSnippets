@@ -3,22 +3,22 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>@createFrame</string>
+	<string>@copy</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>    &lt;#class#&gt; *&lt;#name#&gt; = [[&lt;#class#&gt; alloc] initWithFrame:CGRectMake(x, y, w, h)];
+	<string>@property(nonatomic,copy) NSString *&lt;#name#&gt;;
 </string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>60A5F49C-7B77-4635-821B-33688DA51BA6</string>
+	<string>31269965-D517-4DB9-B948-BFF842518A03</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C-Plus-Plus</string>
 	<key>IDECodeSnippetSummary</key>
 	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>createViewWithFrame</string>
+	<string>copy</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

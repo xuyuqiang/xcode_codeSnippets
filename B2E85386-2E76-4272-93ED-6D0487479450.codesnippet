@@ -3,25 +3,25 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>@createFrame</string>
+	<string>@block</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>    &lt;#class#&gt; *&lt;#name#&gt; = [[&lt;#class#&gt; alloc] initWithFrame:CGRectMake(x, y, w, h)];
+	<string>@property(nonatomic,copy) void (^&lt;#blockName#&gt;)(&lt;#paramter#&gt;);
 </string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>60A5F49C-7B77-4635-821B-33688DA51BA6</string>
+	<string>B2E85386-2E76-4272-93ED-6D0487479450</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C-Plus-Plus</string>
 	<key>IDECodeSnippetSummary</key>
 	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>createViewWithFrame</string>
+	<string>block_property</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
